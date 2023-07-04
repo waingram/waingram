@@ -40,6 +40,12 @@
     <span itemprop="knowsAbout">NLP</span> and <span itemprop="knowsAbout">machine/deep learning</span> to <span
       itemprop="knowsAbout">scholarly big data</span>.
   </p>
+  </p itemprop=sameAs>
+  <a href="https://orcid.org/0000-0002-8307-8844">
+    <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />
+    https://orcid.org/0000-0002-8307-8844
+    </a>
+  </p>
 </div>
 
 - 🔭 I’m currently working on a study to evaluate the UI/UX and accessibility of ETDs converted from PDF to HTML.  
