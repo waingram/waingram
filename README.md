@@ -20,7 +20,7 @@
     and archives. I am especially interested in <a href="//opening-etds.github.io/"><span
         itemprop="knowsAbout">electronic theses and
         dissertations</span></a>. Because they are long and contain multiple
-    chapters, they more resemble books than research articles. His aim is
+    chapters, they more resemble books than research articles. My aim is
     to use methods for information extraction, classification, and
     summarization to uncover the knowledge and data buried in this rich
     corpus of graduate research to facilitate its discovery and equitable use.</p>
