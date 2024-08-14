@@ -1,52 +1,30 @@
-<h1>
-  <span class="p-name d-block overflow-hidden" itemprop="name">
-    <span class="p-given-name" itemprop="givenName">William</span> <span class="p-additional-name">A.</span> <span
-      class="p-family-name" itemprop="familyName">Ingram</span>
-  </span>
-  <!-- <span class="p-nickname vcard-username d-block" itemprop="additionalName">
-            waingram
-          </span> -->
-  <!-- <span class="p-nickname vcard-username d-block" itemprop="additionalName">
-            Bill Ingram
-          </span> -->
-</h1>
-<div class="h-card" itemscope="" itemtype="http://schema.org/Person">
-  <p itemprop="description">I am an assistant professor at <a href="//vt.edu/">Virginia Tech</a>, where I currently
-    serve as associate dean and
-    executive director for information technology in the <a href="//lib.vt.edu/">University Libraries</a>.
+<div class="h-card" itemscope itemtype="http://schema.org/Person">
+  <h1 itemprop="name">
+    <span class="p-given-name" itemprop="givenName">William</span> 
+    <span class="p-additional-name">A.</span>
+    <span class="p-family-name" itemprop="familyName">Ingram</span>
+  </h1>
+  <p itemprop="description">
+    I am an <span itemprop="jobTitle">Associate Professor</span> at <a href="//vt.edu/" itemprop="worksFor affiliation">Virginia Tech</a>, 
+    where I currently serve as <span itemprop="jobTitle">Associate Dean</span> and
+    <span itemprop="jobTitle">Executive Director for Information Technology</span> in the <a href="//lib.vt.edu/" itemprop="worksFor">University Libraries</a>, and 
+    <span itemprop="jobTitle">Director</span> for the <a href="//cdrs.lib.vt.edu/" itemprop="worksFor">Center for Digital Research and Scholarship</a>.
   </p>
-  <p>My research involves devising methods for computational
-    analysis and use of the large digital collections held by libraries
-    and archives. I am especially interested in <a href="//opening-etds.github.io/"><span
-        itemprop="knowsAbout">electronic theses and
-        dissertations</span></a>. Because they are long and contain multiple
-    chapters, they more resemble books than research articles. My aim is
-    to use methods for information extraction, classification, and
-    summarization to uncover the knowledge and data buried in this rich
-    corpus of graduate research to facilitate its discovery and equitable use.</p>
-  <p>I received the B.A. in <span itemprop="knowsAbout">cognitive science</span> from the
-    <a href="//virginia.edu/">University Of Virginia</a> and
-    the M.S. in <a href="//lis.illinois.edu/" itemprop="knowsAbout">Library
-      and Information Science</a>
-    from the <a href="//illinois.edu/" itemprop="alumniOf">University of Illinois at
-      Urbana-Champaign</a> in 2008. Since then, I have been involved in
-    projects and services related to <span itemprop="knowsAbout">scholarly communication</span>,
-    <span itemprop="knowsAbout">digital preservation</span>, repositories and
-    <span itemprop="knowsAbout">digital libraries</span>. I am currently
-    pursuing a Ph.D. in <a href="//cs.vt.edu/"><span itemprop="knowsAbout">Computer Science</span></a> at
-    Virginia Tech, under the supervision of Professor <a href="//fox.cs.vt.edu">Edward A. Fox</a>, with a
-    dissertation
-    focused on the application of
-    <span itemprop="knowsAbout">NLP</span> and <span itemprop="knowsAbout">machine/deep learning</span> to <span
-      itemprop="knowsAbout">scholarly big data</span>.
+  <p>My research is centered on enhancing the functionality and scope of academic library services by using Large Language Models (LLMs) and other <span itemprop="knowsAbout">natural language processing (NLP)</span> techniques to analyze and derive new value from library collections. Supported by funding from the <a href="https://www.imls.gov/" itemprop="funder">Institute of Museum and Library Services (IMLS)</a>, specifically through grants <a href="https://www.imls.gov/grants/awarded/lg-256638-ols-24" itemprop="funding">lg-256638-ols-24</a> and <a href="https://www.imls.gov/grants/awarded/lg-37-19-0078-19" itemprop="funding">lg-37-19-0078-19</a>, we aim to enrich library collections and empower research communities by leveraging <span itemprop="knowsAbout">artificial intelligence (AI)</span> to unlock the profound potential of <span itemprop="knowsAbout">electronic theses and dissertations (ETDs)</span>. Our approach involves developing innovative, service-oriented applications that enhance the depth, reach, and reliability of library services. By applying advanced <span itemprop="knowsAbout">information retrieval</span>, NLP, and other forms of AI, our goal is to enhance the visibility and accessibility of graduate scholarship, position the university as a leader in the innovative use of AI within <span itemprop="knowsAbout">academic libraries</span>, and strengthen the library's reputation as a pioneer in <span itemprop="knowsAbout">digital scholarship</span> and educational technology.</p>
+  <p>
+    I received a B.A. in <span itemprop="knowsAbout">Cognitive Science</span> from <a href="//virginia.edu/" itemprop="alumniOf">University Of Virginia</a> and an M.S. in <a href="//lis.illinois.edu/" itemprop="knowsAbout">Library and Information Science</a>
+    from <a href="//illinois.edu/" itemprop="alumniOf">University of Illinois at Urbana-Champaign</a> in 2008. My ongoing involvement in projects related to <span itemprop="knowsAbout">scholarly communication, digital preservation, repositories, and digital libraries</span> has led to my current Ph.D. studies in <a href="//cs.vt.edu/" itemprop="knowsAbout">Computer Science</a> at
+    Virginia Tech, supervised by Professor <a href="//fox.cs.vt.edu" itemprop="colleague">Edward A. Fox</a>, focusing on <span itemprop="knowsAbout">NLP</span> and <span itemprop="knowsAbout">machine/deep learning</span> applied to <span itemprop="knowsAbout">scholarly big data</span>.
   </p>
-  </p itemprop=sameAs>
-  <a href="https://orcid.org/0000-0002-8307-8844">
-    <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />
-    https://orcid.org/0000-0002-8307-8844
+  <p itemprop="sameAs">
+    <a href="https://orcid.org/0000-0002-8307-8844">
+      <img src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" alt="ORCID logo" width="16" height="16" />
+      View my ORCID profile
     </a>
   </p>
 </div>
+
+
 
 - 🔭 I’m currently working on a study to evaluate the UI/UX and accessibility of ETDs converted from PDF to HTML.  
 - 🌱 I’m currently learning about transformer APIs.  
