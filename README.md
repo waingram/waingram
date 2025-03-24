@@ -31,7 +31,7 @@
 - 👯 I’m looking to collaborate on project related to libraries, text and data mining, and scholarly big data.  
 - 🤔 I’m looking for help with participants for user studies.  
 - 💬 Ask me about the future of university libraries.  
-- 📫 How to reach me: [bill-ingram.com](https://bill-ingram.com) |[Twitter](https://twitter.com/sudobear) | [Instagram](https://instagram.com/sudobear) | [LinkedIn](https://linkedin.com/in/waingram)  
+- 📫 How to reach me: [bill-ingram.com](http://bill-ingram.com) | [Bluesky](https://bsky.app/profile/waingram.bsky.social) | [Instagram](https://instagram.com/sudobear) | [LinkedIn](https://linkedin.com/in/waingram)  
 - 😄 Pronouns: he/him  
 - ⚡ Fun fact: With the advancements in computational methods, scholarly big data, and AI, digital libraries are not just repositories of information but also valuable resources for data mining and knowledge discovery. 
 
