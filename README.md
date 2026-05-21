@@ -10,11 +10,16 @@
     <span itemprop="jobTitle">Executive Director for Information Technology</span> in the <a href="//lib.vt.edu/" itemprop="worksFor">University Libraries</a>, and 
     <span itemprop="jobTitle">Director</span> for the <a href="//cdrs.lib.vt.edu/" itemprop="worksFor">Center for Digital Research and Scholarship</a>.
   </p>
-  <p>My research is centered on enhancing the functionality and scope of academic library services by using Large Language Models (LLMs) and other <span itemprop="knowsAbout">natural language processing (NLP)</span> techniques to analyze and derive new value from library collections. Supported by funding from the <a href="https://www.imls.gov/" itemprop="funder">Institute of Museum and Library Services (IMLS)</a>, specifically through grants <a href="https://www.imls.gov/grants/awarded/lg-256638-ols-24" itemprop="funding">lg-256638-ols-24</a> and <a href="https://www.imls.gov/grants/awarded/lg-37-19-0078-19" itemprop="funding">lg-37-19-0078-19</a>, we aim to enrich library collections and empower research communities by leveraging <span itemprop="knowsAbout">artificial intelligence (AI)</span> to unlock the profound potential of <span itemprop="knowsAbout">electronic theses and dissertations (ETDs)</span>. Our approach involves developing innovative, service-oriented applications that enhance the depth, reach, and reliability of library services. By applying advanced <span itemprop="knowsAbout">information retrieval</span>, NLP, and other forms of AI, our goal is to enhance the visibility and accessibility of graduate scholarship, position the university as a leader in the innovative use of AI within <span itemprop="knowsAbout">academic libraries</span>, and strengthen the library's reputation as a pioneer in <span itemprop="knowsAbout">digital scholarship</span> and educational technology.</p>
   <p>
-    I received a B.A. in <span itemprop="knowsAbout">Cognitive Science</span> from <a href="//virginia.edu/" itemprop="alumniOf">University Of Virginia</a> and an M.S. in <a href="//lis.illinois.edu/" itemprop="knowsAbout">Library and Information Science</a>
-    from <a href="//illinois.edu/" itemprop="alumniOf">University of Illinois at Urbana-Champaign</a> in 2008. My ongoing involvement in projects related to <span itemprop="knowsAbout">scholarly communication, digital preservation, repositories, and digital libraries</span> has led to my current Ph.D. studies in <a href="//cs.vt.edu/" itemprop="knowsAbout">Computer Science</a> at
-    Virginia Tech, supervised by Professor <a href="//fox.cs.vt.edu" itemprop="colleague">Edward A. Fox</a>, focusing on <span itemprop="knowsAbout">NLP</span> and <span itemprop="knowsAbout">machine/deep learning</span> applied to <span itemprop="knowsAbout">scholarly big data</span>.
+    My research integrates <span itemprop="knowsAbout">information retrieval</span>,
+    <span itemprop="knowsAbout">natural language processing</span>, and
+    <span itemprop="knowsAbout">machine learning</span> to study computational evaluation over scholarly corpora.
+    Current work investigates how institutional knowledge can be computationally represented, inferred, operationalized, and reused under conditions of uncertainty, heterogeneity, and incomplete formalization.
+    Much of this research uses <span itemprop="knowsAbout">electronic theses and dissertations (ETDs)</span> as large-scale, institutionally grounded research corpora.
+  </p>
+  <p>
+  I received a B.A. in <span itemprop="knowsAbout">Cognitive Science</span> from <a href="//virginia.edu/" itemprop="alumniOf">the University of Virginia</a>, an M.S. in <span itemprop="knowsAbout">Library and Information Science</span> from <a href="//illinois.edu/" itemprop="alumniOf">the University of Illinois Urbana-Champaign</a>, and a Ph.D. in <a href="//cs.vt.edu/" itemprop="alumniOf">Computer Science</a> at Virginia Tech under the supervision of Professor <a href="//fox.cs.vt.edu" itemprop="colleague">Edward A. Fox</a>. My doctoral research examined <span itemprop="knowsAbout">computational evaluation over scholarly corpora using information retrieval, natural language processing, and machine learning</span>, with particular emphasis on <span itemprop="knowsAbout">goal-conditioned relevance</span>, <span itemprop="knowsAbout">retrieval under interpretive uncertainty</span>, and <span itemprop="knowsAbout">institutional-scale research intelligence</span>. 
+</p>
   </p>
   <p itemprop="sameAs">
     <a href="https://orcid.org/0000-0002-8307-8844">
@@ -25,15 +30,11 @@
 </div>
 
 
-
-- 🔭 I’m currently working on a study to evaluate the UI/UX and accessibility of ETDs converted from PDF to HTML.  
-- 🌱 I’m currently learning about transformer APIs.  
-- 👯 I’m looking to collaborate on project related to libraries, text and data mining, and scholarly big data.  
-- 🤔 I’m looking for help with participants for user studies.  
-- 💬 Ask me about the future of university libraries.  
+- 🔭 Current research: computational evaluation over scholarly corpora, including goal-conditioned relevance and institutional research intelligence.
+- 🌱 Current technical interests: large language model distillation, retrieval-augmented generation, and scientific foundation models.
+- 👯 Open to collaboration on information retrieval, scholarly corpora, AI for research infrastructure, and institutional analytics.
+- 💬 Ask me about scholarly infrastructure, AI in research libraries, ETDs, and research intelligence systems.
 - 📫 How to reach me: [bill-ingram.com](http://bill-ingram.com) | [Bluesky](https://bsky.app/profile/waingram.bsky.social) | [Instagram](https://instagram.com/sudobear) | [LinkedIn](https://linkedin.com/in/waingram)  
-- 😄 Pronouns: he/him  
-- ⚡ Fun fact: With the advancements in computational methods, scholarly big data, and AI, digital libraries are not just repositories of information but also valuable resources for data mining and knowledge discovery. 
 
 <!--
 **waingram/waingram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
